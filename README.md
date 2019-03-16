@@ -1,6 +1,6 @@
 # Udacity Deep Reinforcement Learning Reacher
 
-![Double-jointed arms moving to target locations](banana.gif)
+![Double-jointed arms moving to target locations](reacher.gif)
 
 ## Background
 This project involves training 20 agents (in parallel) to move their double-jointed arm to target locations and keep it there.
