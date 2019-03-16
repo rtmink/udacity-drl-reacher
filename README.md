@@ -49,7 +49,7 @@ Run the following command in the `udacity-drl-reacher` folder:
 jupyter notebook
 ```
 
-In the notebook, refer to `Report.ipynb` to see how the agent is implemented and trained. The implementation includes the model architecture of the neural network. A plot of rewards per episode for each agent is also shown to show the number of episodes needed to solve the environment. Lastly, it highlights ideas for future work.
+In the notebook, refer to `Report.ipynb` to see how the agents are implemented and trained. The implementation includes the model architecture of the neural networks. A plot of rewards per episode averaged over all 20 agents is also shown to show the number of episodes needed to solve the environment. Lastly, it highlights ideas for future work.
 
 ## Evaluation
-Refer to `Reacher.ipynb` to see how the trained agent performs in Unity Reacher environment built for Udacity.
+Refer to `Reacher.ipynb` to see how the trained agents perform in Unity Reacher environment built for Udacity.
